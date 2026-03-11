@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Cathy Fang
+title: Kaile Cathy Fang
 description: B.A. Psychology | McGill University | motto
 
 baseurl: "/" #name of GitHub repository
 url: "https://fancatfkl.github.io" #custom url to be used instead of GitHub repository
-email: #
+email: kaile.fang@mail.mcgill.ca
 
 # Pagination
 paginate: 4
@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "www.linkedin.com/in/kaile-fang-28a7a226b"
+github: "https://github.com/fancatfkl"
+orcid: "https://orcid.org/0009-0003-0557-4089"
 
 # Markdown
 highlighter: rouge

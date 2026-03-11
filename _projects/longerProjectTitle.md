@@ -17,3 +17,8 @@ Code
 ============
 If you're intersted in using MDMR, I have shared the code I used for my project [here](https://github.com/fancatfkl/HCP-EP-functional-dysconnectivity).
 
+Citation
+============
+Fang, C., Danyluik, M., Lavigne, KM. (2025). Understanding Cognitive Impairment in Early Psychosis through Functional Brain (Dys)connectivity: A Whole-Brain Voxel-wise Analysis Approach. McGill Science Undergraduate Research Journal, 20(2).
+
+

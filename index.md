@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I'm passionate about Open Science, which has led me to join the Tanenbaum Open Science Institute as an undergraduate trainee council member and the Douglas Open Science program as an open science intern and trainee committee member. I received my Bachelor of Arts degree from McGill University in February 2026.
 
 If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 

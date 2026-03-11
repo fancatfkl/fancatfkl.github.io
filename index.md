@@ -11,9 +11,19 @@ Hi! I'm a recent graduate from McGill University where I received my Bachelor of
 
 I'm passionate about Open Science, which has led me to join a few trainee committees and take on a few research projects with Dr. Katie Lavigne in the [CRISP Research Group]([https://www.crispdouglas.ca]) and the [ScholCommLab]([https://www.scholcommlab.ca]), co-directed by Dr. Stefanie Haustein. 
 
-You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+<table border="0" style="width: 100%;">
+  <!-- Header Row -->
+  <tr>
+    <th style="border: none; text-align: left; font-weight: bold;">Interests</th>
+  </tr>
+  <!-- Content Rows -->
+  <tr>
+    <td style="border: none;">Neuroimaging</td>
+  </tr>
+  <tr>
+    <td style="border: none;">Open Science</td>
+  </tr>
+  <tr>
+    <td style="border: none;">Statistics</td>
+  </tr>
+</table>

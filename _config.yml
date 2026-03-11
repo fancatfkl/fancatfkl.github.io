@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "www.linkedin.com/in/kaile-fang-28a7a226b"
-github: "https://github.com/fancatfkl"
-orcid: "https://orcid.org/0009-0003-0557-4089"
+linkedin: "kaile-fang-28a7a226b"
+github: "fancatfkl"
+orcid: "0009-0003-0557-4089"
 
 # Markdown
 highlighter: rouge

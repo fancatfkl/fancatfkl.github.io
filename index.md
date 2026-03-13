@@ -14,7 +14,7 @@ I'm passionate about Open Science, which has led me to join a few trainee commit
 <table border="0" style="width: 100%;">
   <!-- Header Row -->
   <tr>
-    <th style="border: none; text-align: left; font-weight: bold;">Interests</th>
+    <th style="border: none; text-align: left; font-weight: bold;">**Interests**</th>
   </tr>
   <!-- Content Rows -->
   <tr>
